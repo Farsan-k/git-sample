@@ -1,3 +1,8 @@
 hi my name is hana 
+<<<<<<< HEAD
 iam working as react developer 
 athinn njan enthaakkannam 
+=======
+iam working as react developer
+he is a nice guy 
+>>>>>>> newone
